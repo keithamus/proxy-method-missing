@@ -1,6 +1,6 @@
 {
   "name": "proxy-method-missing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple way to handle missing methods, using ES6 Proxies",
   "main": "index.js",
   "scripts": {
