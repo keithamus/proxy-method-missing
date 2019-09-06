@@ -1,6 +1,6 @@
 ## Proxy Method Missing
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/proxy-method-missing'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ygkcNhfZ9nTDeVM6P8LSGn1C/keithamus/proxy-method-missing.svg' /></a>
+
 
 This super simple library makes it super simple to wrap Objects, adding a "missing method" hook, similar to [Ruby's method_missing](http://ruby-doc.org/core-2.1.0/BasicObject.html#method-i-method_missing), [PHP's __call](https://secure.php.net/manual/en/language.oop5.overloading.php#object.call).
 
